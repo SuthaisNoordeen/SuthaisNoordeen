@@ -7,9 +7,9 @@ I am a passionate and self-motivated **Software Engineering student** currently 
 ---
 
 ## 🚀 **Technical Skills**
-- **Programming Languages:** Java, Python, JavaScript  
-- **Web Development:** HTML, CSS, JavaScript (Intermediate), React (Intermediate)  
-- **Databases:** MySQL  
+- **Programming Languages:** Java, Python, JavaScript,  SpringBoot,  PHP
+- **Web Development:** HTML, CSS, JavaScript , React   
+- **Databases:** MySQL,  Mongo DB
 - **Backend Frameworks:** Spring Boot  
 
 ---
