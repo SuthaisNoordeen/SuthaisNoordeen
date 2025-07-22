@@ -10,7 +10,7 @@ Connect with Me
 
 📧 Email: suthais.nm@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/suthais-noordeen-9791292ba/  
-🌐 Portfolio: https://github.com/SuthaisNoordeen/Portfolio-Website-React  
+🌐 Portfolio: https://suthais-noordeen.netlify.app/  
 
 ---
 
